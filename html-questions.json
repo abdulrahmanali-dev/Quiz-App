@@ -1,0 +1,58 @@
+[
+  {
+    "title": "what is the time right now:",
+    "answer_1": "the time is 1",
+    "answer_2": "the time is 2",
+    "answer_3": "the time is 3",
+    "answer_4": "the time is 4",
+    "right_answer": "the time is 4"
+  },
+  {
+    "title": "what is my name:",
+    "answer_1": "my name is sami",
+    "answer_2": "my name is abdo",
+    "answer_3": "my name is ali",
+    "answer_4": "my name is mohammed",
+    "right_answer": "my name is abdo"
+  },
+  {
+    "title": "who rulled the world:",
+    "answer_1": "genkiz khan",
+    "answer_2": "the mangols",
+    "answer_3": "the muslims",
+    "answer_4": "the roms",
+    "right_answer": "the muslims"
+  },
+  {
+    "title": "what is the bigges cassel in the world:",
+    "answer_1": "allepo citidel",
+    "answer_2": "damascus citidel",
+    "answer_3": "some random cassel in japan",
+    "answer_4": "sand cassel",
+    "right_answer": "sand cassel"
+  },
+  {
+    "title": "who was the most powerfull leader:",
+    "answer_1": "Marcus auralios",
+    "answer_2": "Abdulrahman Ali ",
+    "answer_3": "Khalid ibn alwalid",
+    "answer_4": "Genkiz khan",
+    "right_answer": "Khalid ibn alwalid"
+  },
+  {
+    "title": "How is the weather today:",
+    "answer_1": "the weather is cold",
+    "answer_2": "the weather is sunny",
+    "answer_3": "the weather is snowy",
+    "answer_4": "the weather is cloudy",
+    "right_answer": "the weather is cold"
+  },
+  {
+    "title": "كم الساعة الأن",
+    "answer_1": "الساعة السادسة",
+    "answer_2": "الساعة الثاثة",
+    "answer_3": "الساعة الرابعة",
+    "answer_4": "الساعة الخامسة",
+    "right_answer": "الساعة الثاثة"
+  }
+]

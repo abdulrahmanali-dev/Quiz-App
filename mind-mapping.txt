@@ -1,0 +1,44 @@
+Done: 
+Mind Mapping 
+01 - Create json Object 
+In Progress:
+02 - Create Marcup
+03 - Create Dummy Data
+04 - Style The Dummy Data
+05 - Fetch the Question number From Json Object 
+06 - Show the Question Count + the Question Catagory
+07 - show the right and wrong answers at the right and the left corner
+08 - Create Count Down Timer at the middle 
+09 - Fetch Question From Json Object
+10 - Show First Question
+11 - Hide the Question and Check If its right od wrong
+12 - if the time end mark the Question as wrong and Show Next Question
+13 - add the Class On Bullet after Andswering the Question 
+14 - if the Questions Finished Show the Result
+
+this is the basic structor of the app 
+
+the Updates For The App:
+
+01 - i want to let users create ther own students or share it with ther friends 
+02 - i want to make a share the result buttun to allow users to shere thier result with each ohters
+i want a motivation qoutes for and allow the teacher to add his words to the test 
+and i want to randomize questions and answers to not allow them to cheat 
+
+
+
+not nessery: 
+creat rooms for like an exam test so the teacher can give his student the test asd student would solve 
+and when the teacher creates a number of questions i want to randomize them so students cant now what question they are facing  
+
+
+
+
+js logic steps: 
+01 -  get the questions from the json file 
+get the data :
+    02 - get the count of questions
+    03 - get the Catagory of the question
+    04 - get the question it self
+05 - make the button check if its right or wrong
+06 - 
