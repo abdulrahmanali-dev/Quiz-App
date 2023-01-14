@@ -1,4 +1,4 @@
-// get Elements
+// select Elements
 let countSpan = document.querySelector(".quiz-info .count span");
 let quizArae = document.querySelector(".quiz-area");
 let answersArae = document.querySelector(".answers-area");
@@ -32,6 +32,7 @@ function getQustions() {
       // Get the Count of The Questions
       let qCount = questionsObject.length;
 
+      catagorySpan.innerHTML = questionsObject[0]["catagory"];
       // Create Bullets(spans) then set question count
       createBullts(qCount);
 

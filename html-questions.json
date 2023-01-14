@@ -1,11 +1,12 @@
 [
   {
-    "title": "what is the time right now:",
-    "answer_1": "the time is 1",
-    "answer_2": "the time is 2",
-    "answer_3": "the time is 3",
-    "answer_4": "the time is 4",
-    "right_answer": "the time is 4"
+    "title": "ماهو اعراب كلمة الطقس في [الطقس جميل]",
+    "answer_1": "فعل مضارع",
+    "answer_2": "فعل ماضي",
+    "answer_3": "فاعل مرفوع",
+    "answer_4": "مبتدأ",
+    "right_answer": "مبتدأ",
+    "catagory":"Random"
   },
   {
     "title": "what is my name:",
